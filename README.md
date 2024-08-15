@@ -1,23 +1,8 @@
-# ReaPack Repository Template
+# Moonset's Script Utopia
 
-A template for GitHub-hosted ReaPack repositories with automated
-[reapack-index](https://github.com/cfillion/reapack-index)
-running from GitHub Actions.
+This is where Moonset, an average person who makes music and stuffs that can fuel this process. Given that Moonset himself is an electronic music producer, soundtrack composer and sound designer, his scripts lay an emphasis on creative or even avant-garde sound design.
 
-Replace the name of the repository in [index.xml](/index.xml) when using this template.
-This will be the name shown in ReaPack.
-
-```xml
-<index version="1" name="Name of your repository here">
-```
-
-Replace the contents of this file ([README.md](/README.md)).
-This will be the text shown when using ReaPack's "About this repository" feature.
-
-reapack-index looks for package files in subfolders.
-The folder tree represents the package categories shown in ReaPack.
-
-Each package file is expected to begin with a metadata header.
-See [Packaging Documentation](https://github.com/cfillion/reapack-index/wiki/Packaging-Documentation) on reapack-index's wiki.
+For Chinese Users：
+这里是月落发布自己的脚本的地方。由于本人本身在电子音乐制作、配乐与声音设计这三个方面都比较感兴趣，所以这里发布的一些脚本都是比较“私人”的——着重于前卫声音设计的小工具，或是使音乐制作的工作流更加方便快捷的小玩意儿。
 
 The URL to import in ReaPack is [https://github.com/`<your username>`/`<repository name>`/raw/master/index.xml](https://github.com/cfillion/reapack-repository-template/raw/master/index.xml).
