@@ -6,8 +6,7 @@
 -- @links
 --  Bilibili: https://space.bilibili.com/424601022
 --  NetEase Cloud Music: http://music.163.com/artist?id=28868931
--- @provides
---  [nomain] Moonset_Glitch Generator/*.lua
+
 
 
 num_items=reaper.CountSelectedMediaItems(0)
