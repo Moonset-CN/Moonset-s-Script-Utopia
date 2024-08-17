@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Moonset's Script Utopia" commit="3c809f0635d9eda76a5e3a65bb01cb8070e9b0d0">
+<index version="1" name="Moonset's Script Utopia" commit="38a58f55711629e92e09d0449835df5626cd97cb">
+  <category name="Sound Design/Moonset_Glitch Generator">
+    <reapack name="Moonset_Glitch Generator.lua" type="script" desc="Moonset_Glitch Generator">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Throw anything in and just start recording!\par}
+}
+]]></description>
+        <link rel="website" href="https://space.bilibili.com/424601022">Bilibili:</link>
+        <link rel="website" href="http://music.163.com/artist?id=28868931">NetEase Cloud Music:</link>
+      </metadata>
+      <version name="1.0.1" author="Moonset" time="2024-08-17T02:18:22Z">
+        <source main="main">https://github.com/Moonset-CN/Moonset-s-Script-Utopia/raw/38a58f55711629e92e09d0449835df5626cd97cb/Sound%20Design/Moonset_Glitch%20Generator/Moonset_Glitch%20Generator.lua</source>
+      </version>
+    </reapack>
+  </category>
   <metadata>
     <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
